@@ -1,0 +1,17 @@
+Flask==1.1.2
+Flask-RESTful==0.3.8
+Flask-SQLAlchemy==2.4.4
+Flask-Migrate==2.5.3
+Flask-JWT-Extended==3.24.1
+Flask-Reuploaded==0.3.2
+Flask-Caching==1.9.0
+Flask-Limiter==1.4
+psycopg2-binary==2.8.6
+passlib==1.7.2
+marshmallow==3.8.0
+itsdangerous==1.1.0
+python-dotenv==0.14.0
+requests==2.24.0
+Pillow==7.2.0
+webargs==6.1.1
+pytest==6.1.0

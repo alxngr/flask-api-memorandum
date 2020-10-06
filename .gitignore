@@ -1,0 +1,8 @@
+# Virtual Environment
+venv/
+
+# Migrations
+migrations/
+
+# Env
+.env
