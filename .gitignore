@@ -3,6 +3,3 @@ venv/
 
 # Migrations
 migrations/
-
-# Env
-.env
