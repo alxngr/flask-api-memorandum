@@ -12,7 +12,7 @@ cd <repo-name>
 2. Create a virtual environment (assuming venv is installed on your machine)
 
 ```zsh
-python -m venv
+python -m venv venv/
 ```
 
 3. Install requirements
