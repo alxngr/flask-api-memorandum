@@ -2,7 +2,7 @@
 
 This memorandum goes through all the necessary steps to develop a RESTful [API](https://en.wikipedia.org/wiki/API) (Application Programming Interface) using Flask.
 
-The example API used is a simple user management system where user can create an account, activate it with their email address, upload an avatar image and add/remove friends registered on the application.
+The example API used is a simple user management system where users can create an account, activate it with their email address, upload an avatar image and add/remove friends registered on the application.
 
 ## Summary
 
