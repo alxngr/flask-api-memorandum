@@ -62,7 +62,7 @@ class UserListResource(Resource):
         try:
             data = user_schema.load(data=json_data)
         except ValidationError as err:
-            return {'msg': 'validation errors', 'errors': str(err)}, HTTPStatus.BAD_REQUEST
+            return {'msg': 'validation errors', 'errors': err.messages}, HTTPStatus.BAD_REQUEST
                 
         if User.get_by_username(username=data.get('username')):
             return {'msg': 'username already used'}, HTTPStatus.BAD_REQUEST
