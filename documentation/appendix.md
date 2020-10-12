@@ -89,4 +89,4 @@ The script performs the following operations:
 
 ## Postman
 
-If you want to use [Postman](https://www.postman.com/) to test the API endpoints. You can load the Postman collection located at `/postman/Users API.postman_collection.json`.
+If you want to use [Postman](https://www.postman.com/) to test the API endpoints, you can load the Postman collection located at `/postman/Users API.postman_collection.json`.
